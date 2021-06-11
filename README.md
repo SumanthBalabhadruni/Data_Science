@@ -4,4 +4,4 @@ I'm sharing the notes which is writen on my own by taking some industrial expert
 
 I Hope this is very helpful to the Data Science Community People.
 
-Thank you for refering my notes
+Thank you so much for refering my notes
